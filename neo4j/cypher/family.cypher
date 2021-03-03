@@ -10,11 +10,12 @@ FROM "file:///family.csv" AS row
 WITH row WHERE (row.full_name IS NOT NULL) and (row.gender = "female") 
 MERGE (:female:Person {person_id:toInteger(row.person_id), placeOfBirth:coalesce(row.place_of_birth, "unknown") , fullName:row.full_name, dob:coalesce(row.dob, "unknown"), dod: coalesce(row.dod, "unknown"), gender:coalesce(row.gender, "unknown")});
 
-CREATE INDEX FOR (m:male) On (m.person_id);
-CREATE INDEX FOR (m:male) On (m.fullName);
 
-CREATE INDEX FOR (f:female) On (f.person_id);
-CREATE INDEX FOR (f:female) On (f.fullName);
+CREATE INDEX male_index IF NOT EXISTS FOR (m:male) On (m.person_id);
+CREATE INDEX male_name_index IF NOT EXISTS FOR (m:male) On (m.fullName);
+
+CREATE INDEX femle_index IF NOT EXISTS FOR (f:female) On (f.person_id);
+CREATE INDEX female_name_index IF NOT EXISTS FOR (f:female) On (f.fullName);
 
 LOAD  CSV WITH HEADERS
 FROM "file:///relationships.csv" AS row
