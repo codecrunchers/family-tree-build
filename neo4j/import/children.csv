@@ -1,0 +1,500 @@
+Parents,Child,person_id,rel_id
+alanh/anne,Jack Harney,73,6004
+alanh/anne,Anna Ryan,17,6004
+barry/dragana,Killian Ryan,103,6006
+barry/dragana,Ksenija Ryan,105,6006
+brendan/sheena,Ben Christopher Ryan,25,6007
+brendan/sheena,Allie Beth Ryan,15,6007
+brendan/sheena,Meg Julie Ryan,119,6007
+chris/maryj,Aunt Babe ,21,6010
+chris/maryj,Aunt Dolly,22,6010
+chris/maryj,Hugh Ryan (jackies brother),70,6010
+chris/maryj,James (Jim) Ryan ,76,6010
+chris/maryj,Christopher Ryan (Jackies Brother),40,6010
+chris/maryj,Jackie Ryan,75,6010
+chris/maryj,Mr Ryan,135,6010
+christy/pearl,Brendan Ryan,31,6009
+christy/pearl,Joanna Ryan,88,6009
+christy/pearl,Bernadette Ryan,27,6009
+clodagh/barry,Tessa Rycraft,164,6038
+clodagh/barry,Ben Rycrat,26,6038
+clodagh/barry,Alice Rycraft,14,6038
+denis/chris,Oscar Banahan,140,6008
+finnjohnaashea1873,Mary Finn,113,6012
+finnjohnaashea1873,John Finn,92,6012
+finnjohnaashea1873,Ellen Finn,60,6012
+finnjohnaashea1873,Daniel Finn,49,6012
+finnjohnaashea1873,James Finn,78,6012
+finnjohnaashea1873,Michael Finn,120,6012
+finnjohnaashea1873,Johanna Finn,90,6012
+finnjohnaashea1873,Patrick Finn,144,6012
+finnjohnaashea1873,Cornelius Finn,48,6012
+finnjohnaashea1873,Bridget Finn,33,6012
+healydriscoll1872,Mary Healy,115,6026
+healydriscoll1872,Catherine Healy,37,6026
+healydriscoll1872,Ellen Healy,61,6026
+healydriscoll1872,John Michael Healy,98,6026
+healydriscoll1872,Michael Healy Married Ellen,126,6026
+healydriscoll1872,Daniel Healy,50,6026
+healydriscoll1872,Bryan Healy,36,6026
+healydriscoll1872,Margaret Healy,108,6026
+helen/terry,Ciardha McGuire,42,6037
+helen/terry,Niamh McGuire,137,6037
+helen/terry,John McGuire,97,6037
+helen/terry,Siobhán McGuire,159,6037
+helen/terry,Ciardha McGuire,42,6037
+helen/terry,John McGuire,97,6037
+helen/terry,Siobhán McGuire,159,6037
+helen/terry,Niamh McGuire,137,6037
+hugh/margaret,Edward Ryan,58,6011
+hugh/margaret,Catherine Ryan,38,6011
+hugh/margaret,Great Grandad Ryan,66,6011
+hugh/margaret,Patrick Ryan 1866,147,6011
+hugh/margaret,Michael Joseph Ryan,127,6011
+hugh/margaret,Hugh Ryan 1870,72,6011
+hugh/margaret,Patrick Joseph,145,6011
+hugh/margaret,James Ryan 1875,83,6011
+hugh/margaret,William Ryan,167,6011
+hugh/margaret,Lil,107,6011
+jimmy/angie,Connor Ryan,46,6017
+jimmy/angie,Aoife Ryan,20,6017
+jimmy/nana,Phil Ryan,151,6016
+john/grainneardle,Sarah Ryan grainne/john,155,6021
+john/grainneardle,Hannah Ryan  grainne/john,67,6021
+john/grainneardle,Stephen Ryan,161,6021
+john/patricia,Daniel Ryan,51,6020
+jrowley/ehoran,Margaret Rowley,109,6014
+martina/denis,Ryanne Leahy,153,6023
+martina/denis,Darragh Leahy,52,6023
+martina/denis,Clodagh Leahy,44,6023
+michael/ellen1901,Michael Healy Gen IV,124,6027
+michael/ellen1901,Kit ,104,6027
+michael/ellen1901,Bridgie,35,6027
+michael/ellen1901,Sis Healy,160,6027
+michael/ellen1901,James Malley Healy,80,6027
+michael/ellen1901,Jackie Healy,74,6027
+michael/ellen1901,Bernard Healy,28,6027
+michael/ellen1901,Nelly Healy,136,6027
+michael/ellen1901,Daniel Healy,50,6027
+michael/ellen1901,Mary Healy,115,6027
+michael/ellen1901,Michael Healy Gen IV II,125,6027
+michael/maria,Aishling Ryan,10,6030
+michael/maria,Sean  Ryan michael/maria,156,6030
+michael/maria,Kate Ryan,102,6030
+micheál/mona,Pat Ryan ((Micheál's Son)),142,6031
+micheál/mona,Jimmy Ryan (Micheál's Son),86,6031
+micheál/mona,Michael Ryan (Micheál's Son),130,6031
+micheál/mona,Martina Ryan,112,6031
+micheál/mona,Breda Ryan,30,6031
+micheál/mona,Marian Ryan,111,6031
+micheál/mona,Joe Ryan (Micheál's Son),89,6031
+niamh/liam,Milo Walsh,132,6022
+niamh/liam,Aobh Walsh,19,6022
+noel & joan,Dearbhla Ryan,53,6033
+noel & joan,Patrick Ryan Noel,148,6033
+noel & joan,Clodagh Ryan,45,6033
+patrick/claire,Noalla Ryan,138,6039
+patrick/claire,Ellen Ryan,62,6039
+patryan/sishealy,Micheál Ryan,131,6032
+patryan/sishealy,Christy Ryan (Christy),41,6032
+patryan/sishealy,Helen Ryan,68,6032
+patryan/sishealy,PB Ryan,149,6032
+patryan/sishealy,Vincent Ryan,166,6032
+patryan/sishealy,Bernard Ryan,29,6032
+patryan/sishealy,Mary Ryan,118,6032
+patryan/sishealy,Sean Ryan,157,6032
+patryan/sishealy,Noel Ryan,139,6032
+pb/verna,Denise Ryan,55,6034
+pb/verna,John Ryan (PB),99,6034
+pb/verna,Cormac Ryan,47,6034
+pb/verna,Anne Ryan,18,6034
+sean & phil,Sarah Ryan,154,6036
+sean & phil,Barry Ryan,23,6036
+sean & phil,Alan Ryan,12,6036
+siobhan/jim,Hugh Roche,69,6015
+siobhan/jim,Evelyn Roche,63,6015
+unknwon/drsicolls 1810,Bridget Driscoll,32,6003
+unkonw/healy 1810,Michael Healy Gen II,122,6024
+unkonwn/driscollsgen1,<Unknown> Driscoll Male Gen II,4,6002
+unkown/healy genii,Michael Healy Gen III,123,6025
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
+,,#N/A,#N/A
