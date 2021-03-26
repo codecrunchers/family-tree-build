@@ -4,7 +4,7 @@ display_usage() {
 	echo -e "\nUsage: $0 [arguments] \n"
 	}
 # if less than two arguments supplied, display usage
-	if [  $# -le 3]
+	if [  $# -le 3 ]
 	then
 		display_usage
 		exit 1
