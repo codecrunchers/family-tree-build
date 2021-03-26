@@ -13,12 +13,12 @@ display_usage() {
 ftfe_build="$1"
 ftbe_release="$2"
 
-tmp_dir=$(mktemp -d -t ft-XXXXXXX)
-echo "Using Dir $tmp_dir"
-cd $tmp_dir
-curl -L https://github.com/codecrunchers/family-tree-build/archive/master.zip --output ft.zip
-unzip ft.zip
-cd family-tree-build-master/
+#tmp_dir=$(mktemp -d -t ft-XXXXXXX)
+#echo "Using Dir $tmp_dir"
+#cd $tmp_dir
+#curl -L https://github.com/codecrunchers/family-tree-build/archive/master.zip --output ft.zip
+#unzip ft.zip
+#cd family-tree-build-master/
 docker-compose build --build-arg FTFE_RELEASE="$ftfe_build" --build-arg FTBE_RELEASE="$ftbe_release"
 docker-compose up -d
 sleep 60
